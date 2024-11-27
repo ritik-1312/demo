@@ -15,7 +15,7 @@ public class MainController {
 
 		@RequestMapping("/test")
 		public String test() {
-			return "hi ";
+			return "hiii yu";
 			
 		}
 }
